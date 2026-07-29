@@ -1,0 +1,8 @@
+Pillow>=10.0.0
+pypdf>=4.0.0
+PyMuPDF>=1.23.0
+pdf2docx>=0.5.8
+
+# Optional: enables drag-and-drop of files onto the app window.
+# The app runs fine without it, just without drag-and-drop.
+tkinterdnd2>=0.3.0

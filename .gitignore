@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Build output
+build/
+dist/
+
+# App runtime data (logs, prefs) if ever run from inside the repo
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
